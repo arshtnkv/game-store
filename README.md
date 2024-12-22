@@ -4,7 +4,7 @@
   <img height="500" width="500" src="src/assets/img/page-image.png" />
 </div>
 
-### >🛠 Технологии:
+### 🛠 Технологии:
 
 - React
 - Sass
